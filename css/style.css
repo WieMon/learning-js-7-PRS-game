@@ -55,7 +55,6 @@ h2 {
   width: 200px;
   margin: 20px;
   display: inline-block;
-
 }
 
 button {
@@ -72,10 +71,11 @@ button {
 }
 
 button:hover {
-  background-color: rgb(20, 20, 20);
-  color: white
+  background-color: #141414;
+  color: white;
 }
 
 span {
   font-weight: bold;
 }
+/*# sourceMappingURL=style.css.map */
